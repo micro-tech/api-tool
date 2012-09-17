@@ -16,6 +16,7 @@
 	</head>
 	<body class="enyo-unselectable">
 		<script>
+			if(window.PalmSystem) window.PalmSystem.stageReady()	<!-- Add to run under old Palm System's-->
 			new App().renderInto(document.body);
 		</script>
 	</body>

@@ -1,3 +1,8 @@
+
+=======================================================
+This version has been set up to run on the HP touch pad
+=======================================================
+
 EnyoJS Api Tool
 ===============
 
@@ -13,7 +18,7 @@ For example, given:
 	lib/
 	  layout/
 	api-tool/
-	  
+
 
 _manifest.json_ should look like this:
 

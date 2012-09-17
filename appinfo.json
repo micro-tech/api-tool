@@ -1,0 +1,11 @@
+{
+	"id": "com.micro-tech-mich.api",
+	"version": "0.0.2",
+	"vendor": "Micro-tech",
+	"type": "web",
+	"main": "index.html",
+	"title": "ApiViewer",
+	"icon": "icon.png",
+	"uiRevision":2
+
+}
